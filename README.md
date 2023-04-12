@@ -1,16 +1,3 @@
-# exam_discount_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://user-images.githubusercontent.com/117704220/231345821-d4fb080b-c9ec-4730-a495-38ac603fe69e.jpeg)
+![2](https://user-images.githubusercontent.com/117704220/231345823-7b40b698-14ab-46bf-8161-58a1640113ef.jpeg)
+![3](https://user-images.githubusercontent.com/117704220/231345826-1178bd61-7e4a-471c-8a80-31db97161411.jpeg)
